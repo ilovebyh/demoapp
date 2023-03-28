@@ -36,9 +36,9 @@
 </template>
 
 <script>
-    import Hearder from './components/Header.vue'
-    import AppMain from './components/Main.vue'
-    import SliderBar from './components/SliderBar.vue'
+    import Hearder from './components/head/Header.vue'
+    import AppMain from './components/main/Main.vue'
+    import SliderBar from './components/sliderBar/SliderBar.vue'
     export default {
         name: 'DemoAppLayout',
         components:{Hearder,AppMain,SliderBar},

@@ -1,3 +1,3 @@
-export {Hearder} from './Header.vue';
-export {AppMain} from './Main.vue';
-export {SliderBar} from './SliderBar.vue';
+export {Hearder} from './head/Header.vue';
+export {AppMain} from './main/Main.vue';
+export {SliderBar} from './sliderBar/SliderBar.vue';
